@@ -17,7 +17,7 @@ Technology and tools used in this project
 * Numpy and Pandas for data cleaning
 * Matplotlib for data visualization
 * Sklearn for model building
-* Jupyter Notebook
+* Colabratory Notebook
 
 
 ## Dataset Reference
